@@ -5,6 +5,10 @@
 * Keyboard Maintainer: [Holten Campbell](https://github.com/holtenc)
 * Hardware Supported: STM32F072CBT6
 
+## LED Configuration
+
+The Meridian keyboard features three RGB indicator LEDs on the top right. For detailed information on configuring these LEDs (including default behavior, color customization, and layer indicators), see the **[LED Configuration Guide](ktr1010/LED_CONFIGURATION.md)** for the KTR1010 variant.
+
 ## Compiling firmware and flashing
 
 ### Enter bootloader
