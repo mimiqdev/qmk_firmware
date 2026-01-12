@@ -4,6 +4,18 @@
 
 The Meridian keyboard with KTR1010 LEDs features **three RGB indicator LEDs** located on the top right of the keyboard. These LEDs can be configured to show various keyboard states, layer information, or custom effects.
 
+```
+                                     ┌────────────────┐
+   Keyboard Layout                  │  ● LED 0 (Top) │
+                                     │  ● LED 1 (Mid) │
+┌────────────────────────────────┐  │  ● LED 2 (Bot) │
+│                                │  └────────────────┘
+│  [Keys...]                     │         ▲
+│                                │         │
+│                                │    Three RGB LEDs
+└────────────────────────────────┘    (Top Right)
+```
+
 ## Default LED Behavior
 
 By default, the three LEDs are configured as lock key indicators:
