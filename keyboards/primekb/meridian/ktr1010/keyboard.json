@@ -4,5 +4,8 @@
     },
     "ws2812": {
         "pin": "B15"
+    },
+    "via": {
+        "layout_options": 1
     }
 }
